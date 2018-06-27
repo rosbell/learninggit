@@ -1,2 +1,2 @@
 # learninggit
-Just tryina learn
+Just tryina learn all about git
